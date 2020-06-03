@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherTestAplication</string>
+    <string name="API_KEY">fa92ad893663ae1947a4d61a704e6d39</string>
+
+    <string name="not_connection_update">Not connection please check for update weather</string>
+    <string name="not_connection_load">Not connection please check for load weather</string>
+</resources>
